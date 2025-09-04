@@ -270,8 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Priyanka Gowda
 - **Email**: priyanka.636192@gmail.com
-- **LinkedIn**: [your-profile](<[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanka-gowda-4bb0201b4/)>)
-- **Project Link**: [GitHub Repository](<[https://github.com/yourusername/deepfake-detector](https://github.com/priyankapinky2004/Deepfake-Detection-System.git)>)
+- **LinkedIn**: [your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanka-gowda-4bb0201b4/))
+- **Project Link**: [GitHub Repository]([https://github.com/yourusername/deepfake-detector](https://github.com/priyankapinky2004/Deepfake-Detection-System.git))
 
 ## 🔮 Future Enhancements
 
