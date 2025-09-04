@@ -240,10 +240,6 @@ The system includes comprehensive monitoring:
 - **Logs**: Structured JSON logging
 - **Dashboards**: Grafana visualizations
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
 ### Development Setup
 ```bash
 # Install development dependencies
@@ -272,10 +268,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@domain.com
-- **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
-- **Project Link**: [GitHub Repository](https://github.com/yourusername/deepfake-detector)
+- **Author**: Priyanka Gowda
+- **Email**: priyanka.636192@gmail.com
+- **LinkedIn**: [your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/priyanka-gowda-4bb0201b4/])
+- **Project Link**: [GitHub Repository]([https://github.com/yourusername/deepfake-detector](https://github.com/priyankapinky2004/Deepfake-Detection-System.git])
 
 ## 🔮 Future Enhancements
 
